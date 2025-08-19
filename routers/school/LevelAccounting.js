@@ -1,0 +1,10 @@
+const Contorllers = require('../../contorllers/school/LevelAccounting');
+const router = require('express').Router();
+const url = "/LevelAccounting"
+
+router.post(`${url}/create`, Contorllers.create);
+router.get(`${url}/read`, Contorllers.read);
+router.post(`${url}/update`, Contorllers.update);
+router.post(`${url}/delete`, Contorllers.delete);
+    
+module.exports=router;  
