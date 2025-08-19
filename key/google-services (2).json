@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962025942251",
+    "project_id": "starlit-lotus-440808-u3",
+    "storage_bucket": "starlit-lotus-440808-u3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962025942251:android:ef7ac85a506942646fa2ae",
+        "android_client_info": {
+          "package_name": "com.monday.studentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZdIFoe-EHLyOXDnwUfn1BpnUd7TsasgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
